@@ -1,0 +1,77 @@
+ ********************************** Links **********************************
+https://github.com/sumanshekhar698/JavaB15
+https://youtu.be/IJ-PJbvJBGs
+
+
+ ********************************** Softwares to install **********************************
+
+Editor:
+Notepad ++✅
+
+IDE:
+Eclipse IDE Free ✅
+IntelliJ Idea 
+
+JDK:
+JDK 8 & JDK 21
+
+ ********************************** JDK **********************************
+JDK (Java Development Kit)
+Its a kit which contains tools,  JRE , JVM and other programs via which you can compile and run Java code
+
+JDK (Java Development Kit)
+	> JRE (Java Runtime Environment)
+	> JVM (Java Virtual Machine
+	> Tools javac java
+
+ ********************************** Compilation **********************************
+Its a process of converting a High level code to a machine friendly code.
+It happens generally in one shot.
+
+Python, Javascript supports
+interpretation: It happens line by line.
+
+
+
+ ********************************** First Java Code Hello World **********************************
+
+Main.java (Its the Source File bcz it contains source code)
+
+
+[compile time]
+
+1. Compilation
+Main.java [changed] ------ javac Main.java ------> Main.class
+
+Main.class [Intermediate code/Byte code]
+
+[runtime]
+2. Execution
+Main.class ---- java Main ----> o/p
+
+
+ ********************************** WORA **********************************
+
+Java supports WORA.
+WORA stands for Write Once Run Anywhere.
+ 
+Is Java  a platform independent language? YES
+Is Java  a platform dependent language? NO
+
+Is JVM a platform independent? NO
+Is JVM a platform dependent? YES
+
+
+
+Win 11 Main.java  -----------> jvm for Windows ----> o/p
+				  -----------> jvm for Linux OS ---> o/p
+				  
+
+So  Java is a Platform independent language but JVM [Java Virtual Machine] is platform dependent thing
+
+
+ ********************************** Keywords in Java **********************************
+
+Keywords are reserved words in Java and they have a special meaning
+they cannot be used as any name
+Approx 50 keywords are there in Java
