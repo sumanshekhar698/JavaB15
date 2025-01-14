@@ -28,11 +28,12 @@ public class BaiscOperators {
 		System.out.println(++x);// 102
 
 //		TODO
-		x = 100;
-		int y = 50;
+		x = 100;//98
+		int y = 50;//50 ---> 0
+//		= 99 - 51 - 51+ 99 - 99 + 51 -  98 + 50 = 1 -1 = 0
 		y = --x - ++y - y-- + x++ - --x + ++y - --x + --y;
-//		System.out.println(y);
-//		System.out.println(x);
+		System.out.println(y);
+		System.out.println(x);
 
 		System.out.println("Shorthand Operators");
 		x = 100;

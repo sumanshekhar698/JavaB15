@@ -4,6 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 
+		int x = 9;// x
+		
+	
 		// bus1 is a reference variable
 		Bus bus1 = new Bus();// color, mielage, topSpeed
 
