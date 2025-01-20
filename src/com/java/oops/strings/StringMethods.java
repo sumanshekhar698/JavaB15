@@ -47,7 +47,7 @@ public class StringMethods {
 		String substring2 = str6.substring(4, 8);// starting index is inclusive BUT ending index is EXCLUSIVE
 		System.out.println(substring2);
 
-//		String concatination
+//		String concatenation
 		String tom = "TOM";
 		String jerry = "JERRY";
 		String concat = tom.concat(jerry);
