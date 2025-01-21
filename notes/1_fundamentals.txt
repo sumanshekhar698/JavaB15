@@ -75,3 +75,10 @@ So  Java is a Platform independent language but JVM [Java Virtual Machine] is pl
 Keywords are reserved words in Java and they have a special meaning
 they cannot be used as any name
 Approx 50 keywords are there in Java
+
+
+ ********************************** OOPS **********************************
+ Encapsulation
+ Polymorphism
+ Inheritance
+ Abstraction
