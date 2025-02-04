@@ -1,4 +1,4 @@
-package com.java.oops.collections;
+package com.java.oops.maps;
 
 import java.util.HashMap;
 import java.util.Map.Entry;
